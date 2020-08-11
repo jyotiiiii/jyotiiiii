@@ -1,4 +1,4 @@
-# I'm Jyoti :octocat:
+# :octocat:I'm Jyoti 
 ![Hello, World_](https://github.com/jyotiiiii/jyotiiiii/blob/master/jyotiiiii.jpg?raw=true)
 
 
