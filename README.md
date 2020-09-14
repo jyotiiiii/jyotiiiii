@@ -2,7 +2,7 @@
 ![Hello, World_](https://github.com/jyotiiiii/jyotiiiii/blob/master/jyotiiiii.jpg?raw=true)
 
 
-🔭 I’m currently working on getting my first job in tech.
+🔭 I have just started my first job in tech. Yay!
 🌱 I’m currently learning React.
 👯 I’m looking to collaborate on apps that make the world a better place.
 🤔 I’m (always) looking for help with how to improve the quality of my code.
